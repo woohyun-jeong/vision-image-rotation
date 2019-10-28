@@ -9,4 +9,5 @@
 4. 각도를 통한 기존 이미지에 회전적용
 
 ## 
-<img src=""></img>
+<img src="https://github.com/woohyun-jeong/vision-image-rotation/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C/text1.jpg"></img>
+<img src="https://github.com/woohyun-jeong/vision-image-rotation/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C/text2.png"></img>
